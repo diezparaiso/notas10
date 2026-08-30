@@ -13,5 +13,5 @@ class AppStrings {
   static const btnDelete = 'Eliminar';
   static const dialogDeleteConfirmTitle = '¿Eliminar esta nota?';
   static const dialogDeleteConfirmBody =
-      'Se moverá a la papelera y se eliminará definitivamente en 30 días';
+      'Esta nota se eliminará permanentemente';
 }
